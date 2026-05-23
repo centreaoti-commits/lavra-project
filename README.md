@@ -46,7 +46,7 @@
 - **Diamond Hands Score** — measures conviction and patience
 
 ### 🤖 AI Coach
-- Powered by Xiaomi's MiMo v2.5 Pro model
+- Powered by GPT-5.5 model
 - Context-aware — knows your wallet history and emotional profile
 - Suggested prompts: "Why did I lose money?", "What's my weakness?", "Give me a rule"
 - Real-time chat with typing indicators
@@ -100,7 +100,7 @@
 ### AI & Blockchain
 | Technology | Purpose |
 |------------|---------|
-| **MiMo v2.5 Pro** | AI coaching model (via OpenGateway) |
+| **GPT-5.5** | AI coaching model (via OpenGateway) |
 | **Etherscan API** | On-chain transaction data |
 | **eth-account** | Ethereum signature verification |
 | **SIWE** | Sign-In with Ethereum standard |
@@ -234,7 +234,7 @@ lavra-project/
 │   │   │   ├── reports/            # Report generation
 │   │   │   └── user/               # User management
 │   │   ├── core/
-│   │   │   ├── ai/                 # AI coach (MiMo integration)
+│   │   │   ├── ai/                 # AI coach (GPT-5.5 integration)
 │   │   │   ├── analysis/           # Emotion detectors
 │   │   │   │   ├── fomo_detector.py
 │   │   │   │   ├── panic_detector.py
@@ -309,7 +309,7 @@ lavra-project/
 ## 🗺 Roadmap
 
 - [x] Wallet analysis and emotional profiling
-- [x] AI coaching with MiMo v2.5 Pro
+- [x] AI coaching with GPT-5.5
 - [x] Trade history with emotion tags
 - [x] SIWE authentication
 - [x] Public wallet scan (no auth required)
