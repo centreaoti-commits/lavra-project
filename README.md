@@ -289,14 +289,8 @@ lavra-project/
 
 ## 🎨 Screenshots
 
-### Landing Page
-Professional dark-themed landing with gradient effects, feature grid, and pricing section.
-
 ### Dashboard
-- **Emotional Radar** — Interactive radar chart showing FOMO, Panic, Revenge, Overtrade, Diamond Hands
-- **Stats Bar** — Emotional Score, Win Rate, Total Trades, Emotional Loss
-- **Recent Trades** — Latest trades with emotion tags and PnL
-- **AI Coach** — Context-aware chat with your trading data
+![Crypto Therapist Dashboard](docs/screenshots/dashboard.png)
 
 ---
 
