@@ -289,8 +289,20 @@ lavra-project/
 
 ## 🎨 Screenshots
 
+### Landing Page
+![Landing Page](docs/screenshots/landing.png)
+
+### The Problem
+![The Problem](docs/screenshots/problem.png)
+
+### Features
+![Features](docs/screenshots/features.png)
+
+### Pricing
+![Pricing](docs/screenshots/pricing.png)
+
 ### Dashboard
-![Crypto Therapist Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 ---
 
